@@ -16,37 +16,37 @@ const Index = () => {
   const socialLinks = [
     {
       platform: 'Facebook',
-      url: 'https://facebook.com/yourusername',
+      url: 'https://www.youtube.com/@BlessingSarees',
       icon: Facebook,
       bgGradient: 'bg-gradient-to-r from-blue-600 to-blue-500',
     },
     {
       platform: 'Instagram',
-      url: 'https://instagram.com/yourusername',
+      url: 'https://www.youtube.com/@BlessingSarees',
       icon: Instagram,
       bgGradient: 'bg-gradient-to-r from-pink-500 to-orange-500',
     },
     {
       platform: 'YouTube',
-      url: 'https://youtube.com/@yourusername',
+      url: 'https://www.youtube.com/@BlessingSarees',
       icon: Youtube,
       bgGradient: 'bg-gradient-to-r from-red-600 to-red-500',
     },
     {
       platform: 'Twitter',
-      url: 'https://twitter.com/yourusername',
+      url: 'https://www.youtube.com/@BlessingSarees',
       icon: Twitter,
       bgGradient: 'bg-gradient-to-r from-sky-500 to-blue-500',
     },
     {
       platform: 'LinkedIn',
-      url: 'https://linkedin.com/in/yourusername',
+      url: 'https://www.youtube.com/@BlessingSarees',
       icon: Linkedin,
       bgGradient: 'bg-gradient-to-r from-blue-700 to-blue-600',
     },
     {
       platform: 'TikTok',
-      url: 'https://tiktok.com/@yourusername',
+      url: 'https://www.youtube.com/@BlessingSarees',
       icon: Music,
       bgGradient: 'bg-gradient-to-r from-gray-900 to-gray-700',
     },
@@ -54,12 +54,12 @@ const Index = () => {
 
   // CUSTOMIZE YOUR BUSINESS INFO HERE
   const businessInfo = {
-    name: 'Your Amazing Shop',
+    name: 'Blessing sarees',
     tagline: 'Connect with us everywhere!',
-    address: '123 Main Street, City, Country',
-    phone: '+123 456 789',
+    address: 'Vasavi wholesale cloth market Guntur',
+    phone: '99999999',
     email: 'shop@email.com',
-    mapsUrl: 'https://maps.google.com/?q=123+Main+Street,+City,+Country',
+    mapsUrl: 'https://maps.app.goo.gl/UPRZg56w24aoYCoh7',
   };
 
   return (
